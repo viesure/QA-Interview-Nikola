@@ -1,5 +1,5 @@
-# QA-Interview-{Candidate}
-QA Interview assignment project for {Candidate}
+# QA-Interview-Nikola Mihajlović
+QA Interview assignment project for Nikola Mihajlović
 
 
 ## Weather 'application' overview
@@ -51,8 +51,8 @@ The API will return the following fields: `city`, `condition`, `icon`, `descript
 
 ### The API:
 
-The base url of the API is: `base_url`
-<br >**Eg.:** GET `base_url/weather`
+The base url of the API is: `https://backend-interview-sydney.tools.gcp.viesure.io`
+<br >**Eg.:** GET `https://backend-interview-sydney.tools.gcp.viesure.io/weather`
 
 **GET .../weather**
 * You can fetch the endpoint through  `{base_url}/weather` with the following data structure:
